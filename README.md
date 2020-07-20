@@ -2,4 +2,4 @@
 
 
 
-![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekiiest&show_icons=true)
+![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekiiest&show_icons=true&theme=dark)
