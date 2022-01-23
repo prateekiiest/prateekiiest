@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Prateek Chanda](https://prateekiiest.github.io/) 👋
 
 I am currently working as a Research Software Engineer at Microsoft Research India, advised by Dr. Amit Sharma. I have been fortunate to work on variety of interesting research problems both at MSR and beyond that has led to publications at CSCW, NeurIPs, AAAI, AISTATS, PAKDD and AAAI HCOMP.
 Previously, I received my bachelor's degrees in Computer Science from the Indian Institute of Engineering Science and Technology, Shibpur (erstwhile BESU) and worked as a research consultant at IIT Kharagpur.
