@@ -24,5 +24,6 @@ Some of the organisations I previously worked with
 
 ![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=prateekiiest&show_icons=true&theme=dark)
 
+![](https://komarev.com/ghpvc/?username=prateekiiest)
 
 [Webpage](https://prateekiiest.github.io/) • [Email](mailto:prateekkol21@gmail.com) • [Twitter](https://twitter.com/prateekiiest) • [LinkedIn](https://www.linkedin.com/in/prateek-chanda-iiest/)
